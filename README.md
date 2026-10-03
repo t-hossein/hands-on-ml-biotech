@@ -10,4 +10,4 @@ Python notebooks for the practical sessions of an introductory machine learning 
 | 2 | VS Code, object-oriented Python, pandas and plotting | Coming soon | |
 | 3 | Linear regression | Coming soon | |
 
-New sessions are added each week. Solutions are published in each session's `solutions/` folder after the class.
+New sessions are added each week. Solutions are published in each session's folder after the class.
